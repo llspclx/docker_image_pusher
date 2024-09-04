@@ -1,1 +1,1 @@
-ros
+osrf/ros:melodic-desktop-full
