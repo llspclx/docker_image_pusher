@@ -1,1 +1,3 @@
 osrf/ros:melodic-desktop-full
+osrf/ros:kinetic-desktop-full
+osrf/ros:noetic-desktop-full
